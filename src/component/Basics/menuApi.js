@@ -1,0 +1,60 @@
+const Menu = [
+  {
+    id: 1,
+    image: "images/maggi.jpg",
+    name: "maggi",
+    category: "lunch",
+    price: 50,
+    description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil tempore repellendus blanditiis sequi nesciunt ipsa, saepe sit officia soluta magni.",
+  },
+  {
+    id: 2,
+    image: "images/rotiwithmeat.jpg",
+    name: "rotiwithmeat",
+    category: "evening",
+    price: 100,
+    description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil tempore repellendus blanditiis sequi nesciunt ipsa, saepe sit officia soluta magni.",
+  },
+  {
+    id: 3,
+    image: "images/allupakoida.jpg",
+    name: "allupakoida",
+    category: "dinner",
+    price: 200,
+    description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil tempore repellendus blanditiis sequi nesciunt ipsa, saepe sit officia soluta magni.",
+  },
+  {
+    id: 4,
+    image: "images/samosa.jpg",
+    name: "samosa",
+    category: "breakfast",
+    price: 200,
+    description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil tempore repellendus blanditiis sequi nesciunt ipsa, saepe sit officia soluta magni.",
+  },
+  {
+    id: 5,
+    image: "images/puri.jpg",
+    name: "puri",
+    category: "breakfast",
+    price: 150,
+    description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil tempore repellendus blanditiis sequi nesciunt ipsa, saepe sit officia soluta magni.",
+  },
+  {
+    id: 6,
+    image: "images/rajmarice.jpg",
+    name: "rajmarice",
+    category: "dinner",
+    price: 100,
+    description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil tempore repellendus blanditiis sequi nesciunt ipsa, saepe sit officia soluta magni.",
+  },
+  {
+    id: 7,
+    image: "images/rajmarice.jpg",
+    name: "rajmarice",
+    category: "Qazi",
+    price: 100,
+    description: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil tempore repellendus blanditiis sequi nesciunt ipsa, saepe sit officia soluta magni.",
+  },
+];
+
+export default Menu;
