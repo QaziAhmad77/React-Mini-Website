@@ -12,6 +12,7 @@ const uniqueList = [
   ),
   "All",
 ];
+console.log(uniqueList);
 
 const Resturant = () => {
   const [menuData, setMenuData] = useState(Menu);
